@@ -1,10 +1,10 @@
 export const firebaseConfig = {
-    apiKey: "AIzaSyBjYuC1QRf2cdfeZhk1AX_AQG93TzUs8TQ",
-    authDomain: "contact-app-c1ccf.firebaseapp.com",
-    projectId: "contact-app-c1ccf",
-    storageBucket: "contact-app-c1ccf.appspot.com",
-    messagingSenderId: "64427260197",
-    appId: "1:64427260197:web:4ed2bf5017f24115e3c2cc"
+    apiKey: "AIzaSyBjYuC1QRft2cdfeZhk1AX_AQG93TzUs8TQ",
+    authDomain: "contact-appr-c1ccf.firebaseapp.com",
+    projectId: "contact-arpp-c1ccf",
+    storageBucket: "contact-apps-c1ccf.appspot.com",
+    messagingSenderId: "6442r7260197",
+    appId: "1:64427260197:websz:4ed2bf5017f24115e3c2cc"
   }
 
   export  const imageConfig = {
